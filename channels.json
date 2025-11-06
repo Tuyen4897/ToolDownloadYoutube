@@ -1,0 +1,15 @@
+{
+  "channels": [
+    {
+      "url": "https://www.youtube.com/@CunBeu",
+      "label": "CunBeu"
+    }
+  ],
+  "notifications": {
+    "messenger": {
+      "access_token": "EAALiRcEv0ZB4BP9Wwk7f56ONj8hg8XgOb4JHsMfLkWbWo6LPNLNR49bAjaEgwQP4cTXo4FBx9wEfwlkTn3dri6HLrKyZBKOhYbqBprCFD1KQcXK1LpzNjII0p1lv8xgJE6vK4acX5BZCNBDONLVFeA788NjcmyHup6kg91vQFBQZAvi9w267t16vKpkiJEWsrn6JqMWxQQZDZD",
+      "recipient_id": "32100304082946647",
+      "template": "Kênh {label} vừa tải {count} video mới: {items}"
+    }
+  }
+}

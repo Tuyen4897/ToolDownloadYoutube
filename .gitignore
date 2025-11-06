@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local downloads and archives
+downloads/
+.archives/
+
+# IDE/project files
+.idea/
+.vscode/
+
+# OS metadata
+.DS_Store
+
