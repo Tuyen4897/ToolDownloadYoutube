@@ -5,10 +5,16 @@ __pycache__/
 # Virtual environments
 .venv/
 venv/
+.venv-build/
 
 # Local downloads and archives
 downloads/
 .archives/
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
 
 # IDE/project files
 .idea/
@@ -16,4 +22,3 @@ downloads/
 
 # OS metadata
 .DS_Store
-
